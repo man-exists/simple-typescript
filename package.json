@@ -1,0 +1,24 @@
+{
+  "name": "simple-typescript",
+  "version": "1.0.0",
+  "description": "A template for cra",
+  "author": "man-exists",
+  "license": "ISC",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/man-exists/simple-typescript"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ]
+}
