@@ -11,9 +11,16 @@
   "engines": {
     "node": ">=14"
   },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/man-exists/simple-typescript"
+    "url": "https://github.com/man-exists/simple-typescript",
+    "directory": "/master/"
   },
   "keywords": [
     "react",
