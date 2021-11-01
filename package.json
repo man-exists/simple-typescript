@@ -19,8 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/man-exists/simple-typescript",
-    "directory": "/master/"
+    "url": "https://github.com/man-exists/simple-typescript/master"
   },
   "keywords": [
     "react",
